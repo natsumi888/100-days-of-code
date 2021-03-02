@@ -6,4 +6,6 @@
 
 **Thoughts:** I am new to code. Firstly, I want to learn python, but HTML and HTML5 courses on freecodecamp are so funny, so I decided to finish those courses.
 
+### Day 2: March 2, 2021
 
+**Today's Progress**:Finished Basic HTML and HTML5 course.
