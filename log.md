@@ -9,9 +9,16 @@
 
 ### Day 2: March 2, 2021
 
-**Today's Progress**:Finished Basic HTML and HTML5 course.
+**Today's Progress**: Finished Basic HTML and HTML5 course.
 
 
 ### Day 3: March 3, 2021
 
-**Today's Progress**:13/44 Basic CSS course on freecodecamp.
+**Today's Progress**: 13/44 Basic CSS course on freecodecamp.
+
+
+### Day 4: March 4, 2021
+
+**Today's Progress**: Finished Basic CSS course.
+
+**Thoughts:** Penguin
