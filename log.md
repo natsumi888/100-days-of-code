@@ -29,3 +29,10 @@
 **Today's Progress**: 28/52 Applied Visual Design course.
 
 **Thoughts:** #FF007F
+
+
+### Day 6: March 6, 2021
+
+**Today's Progress**: Finished Applied Visual Design course.
+
+**Thoughts:** cubic-bezier
