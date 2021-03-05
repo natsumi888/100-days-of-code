@@ -22,3 +22,10 @@
 **Today's Progress**: Finished Basic CSS course.
 
 **Thoughts:** Penguin
+
+
+### Day 5: March 5, 2021
+
+**Today's Progress**: 28/52 Applied Visual Design course.
+
+**Thoughts:** #FF007F
