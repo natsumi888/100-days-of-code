@@ -36,3 +36,10 @@
 **Today's Progress**: Finished Applied Visual Design course.
 
 **Thoughts:** cubic-bezier
+
+
+### Day 7: March 7, 2021
+
+**Today's Progress**: Finished Applied Accessibility course.
+
+**Thoughts:** Camper Cat 
