@@ -43,3 +43,10 @@
 **Today's Progress**: Finished Applied Accessibility course.
 
 **Thoughts:** Camper Cat 
+
+
+### Day 8: March 8, 2021
+
+**Today's Progress**: Finished Responsive Web Design Principles course, 6/17 CSS Flexbox course.
+
+**Thoughts:** display: flex;
