@@ -50,3 +50,10 @@
 **Today's Progress**: Finished Responsive Web Design Principles course, 6/17 CSS Flexbox course.
 
 **Thoughts:** display: flex;
+
+
+### Day 9: March 9, 2021
+
+**Today's Progress**: Review day
+
+**Thoughts:** <!DOCTYPE html>
