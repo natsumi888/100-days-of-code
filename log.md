@@ -56,4 +56,10 @@
 
 **Today's Progress**: Review day
 
-**Thoughts:** <!DOCTYPE html>
+**Thoughts:** <!DOCTYPE html
+
+
+### Day 10: March 10, 2021
+
+**Today's Progress**: Finished CSS Flexbox course and 9/22 CSS Grid course.
+
