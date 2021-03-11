@@ -75,4 +75,4 @@
 
 **Today's Progress**: Start to Build a Tribute Page, make a framwork of the page and pass the test.
 
-**Thoughts:** First project seems easy, but I think is not easy  to make the page beautiful.
+**Thoughts:** The first project seems easy, but I think is not easy  to make the page beautiful.
