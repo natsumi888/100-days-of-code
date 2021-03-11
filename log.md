@@ -64,9 +64,15 @@
 **Today's Progress**: Finished CSS Flexbox course and 9/22 CSS Grid course.
 
 
-
 ### Day 11: March 11, 2021
 
 **Today's Progress**: Finished CSS Grid course.
 
 **Thoughts:** Well, I almost finish the Responsive Web Design course, now I should complete the five web programming projects, but maybe I need to review what I have learned.
+
+
+### Day 12: March 12, 2021
+
+**Today's Progress**: Start to Build a Tribute Page, make a framwork of the page and pass the test.
+
+**Thoughts:** First project seems like easy, but I think is not easy  to make the page beautiful.
